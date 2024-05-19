@@ -1,6 +1,0 @@
-my_string = input()
-print('длина строки: ',len(my_string))
-print('строка в верхнем регистре: ',my_string.upper())
-print('строка без пробелов: ',my_string.replace(' ',''))
-print('первый символ: ',my_string[0])
-print('последний символ: ',my_string[-1])
